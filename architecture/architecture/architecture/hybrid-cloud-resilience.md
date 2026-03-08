@@ -1,4 +1,4 @@
-# Hybrid Cloud Resilience Framework
+architecture/hybrid-cloud-resilience.md
 
 ## Objective
 
