@@ -64,26 +64,3 @@ This architecture models modern security principles:
 ---
 
 # Repository Structure
-## Architecture Diagrams
-
-### Hybrid Cloud Architecture
-![Hybrid Cloud](diagrams/hybrid-cloud-architecture.png)
-
-### AI Observability Platform
-![AI Observability](diagrams/ai-observability-platform.png)
-
-### Zero Trust Architecture
-![Zero Trust](diagrams/zero-trust-enterprise-architecture.png)
-
----
-
-# Purpose
-
-This repository supports:
-
-- Enterprise architecture education
-- Infrastructure engineering training
-- Cloud architecture learning
-- Cybersecurity architecture design
-
-Used by **EmpowerTech Pathway** training cohorts.
