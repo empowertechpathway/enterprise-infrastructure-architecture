@@ -1,4 +1,4 @@
-architecture/hybrid-cloud-resilience.md
+hybrid-cloud-resilience.md
 
 ## Objective
 
